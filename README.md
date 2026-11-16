@@ -55,6 +55,8 @@ Além de estudante, sou **empreendedor**: fundador da [Nex<b>7</b> Step](https:/
 
 **Back-end e banco de dados**
 
+![Python](https://img.shields.io/badge/Python-0d0814?style=for-the-badge&logo=python&logoColor=6b1fad)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0814?style=for-the-badge&logo=javascript&logoColor=6b1fad)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0814?style=for-the-badge&logo=nodedotjs&logoColor=6b1fad)
 ![Express](https://img.shields.io/badge/Express-0d0814?style=for-the-badge&logo=express&logoColor=6b1fad)
 ![MySQL](https://img.shields.io/badge/MySQL-0d0814?style=for-the-badge&logo=mysql&logoColor=6b1fad)
@@ -85,8 +87,10 @@ Além de estudante, sou **empreendedor**: fundador da [Nex<b>7</b> Step](https:/
 
 ## 🚀 Projetos
 
-- 🌐 **[nex7step](https://nex7step.up.railway.app)**: empresa da qual sou fundador.
-- 💜 **Meu portfólio**: site pessoal com tema claro e escuro, versões em português e inglês, feito em HTML, CSS e JavaScript.
+- 💜 **[Portfólio Web](https://matheusavila-dev.github.io/Portifolio-Web-Matheus/)**: site pessoal com tema claro e escuro, versões em português e inglês, feito em HTML, CSS e JavaScript.
+- 🌐 **[Nex7 Step](https://next7step.github.io/nex7step/)**: empresa da qual sou fundador.
+- 🎉 **[D'Avillas Fest](https://avillasfest.github.io/site/)**
+- 📚 **[Study4Life](https://matheusavila-dev.github.io/Study-4Life/)**
 
 > Mais projetos em breve. Veja meus repositórios aqui no perfil. 👇
 
