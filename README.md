@@ -26,7 +26,7 @@ Além das competências técnicas, destaco minha facilidade de comunicação, ca
 
 > 🎯 **Objetivo:** buscar minha primeira oportunidade profissional na área de tecnologia, na qual eu possa aplicar meus conhecimentos, adquirir experiência prática, contribuir com a equipe e continuar evoluindo profissionalmente.
 
-Além de estudante, sou **empreendedor**: fundador da [nex<b>7</b>step](https://nex7step.up.railway.app), e crio e participo ativamente de outros projetos pessoais.
+Além de estudante, sou **empreendedor**: fundador da [Nex<b>7</b> Step](https://nex7step.up.railway.app), e crio e participo ativamente de outros projetos pessoais.
 
 ---
 
