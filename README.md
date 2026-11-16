@@ -85,7 +85,7 @@ Além de estudante, sou **empreendedor**: fundador da [Nex<b>7</b> Step](https:/
 ## 🚀 Projetos
 
 - 💜 **[Portfólio Web](https://matheusavila-dev.github.io/Portifolio-Web-Matheus/)**: Site pessoal onde falo um pouco sobre minhas habilidades e projetos.
-- 🌐 **[Nex7 Step](https://next7step.github.io/nex7step/)(https://next7step.github.io/Nex7Step-GitHub/)**: Site da empresa a qual sou fundador.
+- 🌐 **[Nex7 Step](https://next7step.github.io/nex7step/)**: Site da empresa de tecnologia a qual sou fundador, juntamente de um sócio.
 - 🎉 **[D'Avillas Fest](https://avillasfest.github.io/site/)**: Site do salão de festas a qual sou dono.
 - 📚 **[Study4Life](https://matheusavila-dev.github.io/Study-4Life/)**: Projeto de um site institucional sem fins lucrativos.
 
