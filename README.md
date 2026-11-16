@@ -1,6 +1,3 @@
-<!-- Para usar: crie um repositório PÚBLICO com o mesmo nome do seu usuário (matheusavila-dev)
-     e salve este conteúdo como README.md na raiz dele. -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6b1fad&height=210&section=header&text=Matheus%20%C3%81vila&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20TI%20%C2%B7%20Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=62" alt="Matheus Ávila" width="100%">
@@ -87,10 +84,10 @@ Além de estudante, sou **empreendedor**: fundador da [Nex<b>7</b> Step](https:/
 
 ## 🚀 Projetos
 
-- 💜 **[Portfólio Web](https://matheusavila-dev.github.io/Portifolio-Web-Matheus/)**: site pessoal com tema claro e escuro, versões em português e inglês, feito em HTML, CSS e JavaScript.
-- 🌐 **[Nex7 Step](https://next7step.github.io/nex7step/)**: empresa da qual sou fundador.
-- 🎉 **[D'Avillas Fest](https://avillasfest.github.io/site/)**
-- 📚 **[Study4Life](https://matheusavila-dev.github.io/Study-4Life/)**
+- 💜 **[Portfólio Web](https://matheusavila-dev.github.io/Portifolio-Web-Matheus/)**: Site pessoal onde falo um pouco sobre minhas habilidades e projetos, feito em HTML, CSS e JavaScript.
+- 🌐 **[Nex7 Step](https://next7step.github.io/nex7step/)**: Site da empresa a qual sou fundador.
+- 🎉 **[D'Avillas Fest](https://avillasfest.github.io/site/)**: Site do salão de festas a qual sou dono.
+- 📚 **[Study4Life](https://matheusavila-dev.github.io/Study-4Life/)**: Projeto de um site institucional sem fins lucrativos.
 
 > Mais projetos em breve. Veja meus repositórios aqui no perfil. 👇
 
